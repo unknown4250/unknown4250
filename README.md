@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 ⚡ What I did
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mzzz25)](https://solved.ac/mzzz25)
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=unknown4250" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=unknown4250" height="165">
 
